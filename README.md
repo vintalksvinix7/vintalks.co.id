@@ -9,3 +9,5 @@ Anggota:
 3. Nicke Ramadhona (Bisnis Digital)
 
 VinTalks adalah sebuah platform layanan konsultasi karier internasional yang dihadirkan untuk memberikan kemudahan akses bagi pengguna dalam mendapatkan pendampingan karier internasional secara profesional melalui fitur seperti konsultasi 1-on-1, sesi mentoring yang terjadwal, review CV dan portofolio, rekomendasi roadmap karier, hingga forum diskusi, platform ini diharapkan mampu membantu pengguna dalam menavigasi perjalanan karier mereka dengan lebih percaya diri dan terarah.
+
+Tampilan Website: https://vintalksvinix7.github.io/vintalks.co.id/
