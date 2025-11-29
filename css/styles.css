@@ -1113,6 +1113,7 @@ body {
     color: var(--text-light);
     font-size: 16px;
     transition: all 0.3s ease;
+    text-align: center;
 }
 
 .btn-why:hover {
@@ -2459,4 +2460,5 @@ body {
     .footer-column:first-child {
         max-width: 350px;
     }
+
 }
